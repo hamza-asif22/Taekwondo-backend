@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+mediapipe
+scipy
+scikit-learn
+joblib
+matplotlib
+python-multipart
